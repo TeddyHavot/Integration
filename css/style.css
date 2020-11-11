@@ -1,0 +1,156 @@
+.big-hero-box {
+    background-color: #DAE4FF;
+}
+
+.big-hero-box p {
+    font-family: Avenir;
+    font-size: 15px;
+    color: #8584C5;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.section-qui-sommes-nous h2{
+    font-family: Avenir;
+    font-size: 42px;
+    color: #A09EEB;
+}
+
+.section-qui-sommes-nous p{
+    font-family: Avenir;
+    font-size: 17px;
+    color: #727EBD;
+    width: 500px;
+}
+
+.en-details {
+    background-color: #DAE4FF;
+}
+
+.ce-que-nous-proposons h2 {
+    font-family: Avenir;
+    font-size: 36px;
+    color: #A09EEB;
+}
+
+.ce-que-nous-proposons p {
+    font-family: Avenir;
+    font-size: 18px;
+    color: #8584C5;
+}
+
+.ce-que-nous-proposons h1 {
+    text-align: center;
+}
+
+.ce-que-nous-proposons h1:after {
+    display: block;
+    height: 5px;
+    background-color: #F2A7A7;
+    content: " ";
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 410px;
+}
+
+.trouver-notre-boutique {
+    background-color: #DAE4FF;
+}
+
+.trouver-notre-boutique h2 {
+    font-family: Avenir;
+    font-size: 51px;
+    color: #8584C5;
+}
+
+.trouver-notre-boutique p {
+    font-family: Avenir;
+    font-size: 20px;
+    color: #727EBD;
+    width: 600px;
+    margin-bottom: 108px;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: Avenir;
+    color: #8584C5;
+    font-weight: heavy;
+    word-spacing: -6%;
+}
+
+h1:after {
+    display: block;
+    height: 5px;
+    background-color: #F2A7A7;
+    content: " ";
+    width: 600px;
+    margin-top: 30px;
+}
+
+.btn {
+    background-color: #A09EEB;
+    padding: 10px 25px;
+    border-radius: 7px;
+    color: #FFFFFF;
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-right: 185px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 35px;
+    font-family: Avenir;
+    font-weight: Roman;
+    font-size: 21px;
+}
+
+.login {
+    float: right;
+}
+
+
+.en-details img {
+    float: right;
+}
+
+.en-details p {
+    width: 600px;
+    font-family: Avenir;
+    font-size: 24px;
+    color: #424A71;
+    display: inline-block;
+}
+
+.footer-nav {
+    float: right;
+    list-style: none;
+    font-family: Avenir;
+    font-size: 20px;
+    color: #727EBD;
+    margin-right: 200px;
+}
+
+.text-img-1 {
+    float: right;
+}
+
+.img2 {
+    float: right;
+    margin-right: 200px;
+}
+
+.text-img-2 {
+    display: inline-block;
+    text-align: right;
+}
+
